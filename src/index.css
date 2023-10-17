@@ -1,0 +1,40 @@
+.borderRound{
+  border-radius: 8px;
+  font-family: montserrat;
+}
+.fontSize{
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+.cardContainer{
+  max-height: 400px;
+  overflow-y: auto;
+}
+.cards{
+  border-radius: 15px;
+  box-shadow:0 0 10px rgb(166, 157, 184);
+}
+.notes{
+  font-size: large;
+  font-weight:500;
+}
+.imgTitle{
+  justify-content: space-between;
+}
+.contentCards{
+  border-radius: 25px;
+  box-shadow:0 0 10px rgb(166, 157, 184);
+  height:200px;
+  overflow: auto;
+  margin-bottom: 20px;
+}
+.images{
+  display:flex;
+  margin-right: 20px;
+}
+.edit{
+  margin:50px;
+  padding: 10px;
+  background-color:#E3E8F8;
+}
